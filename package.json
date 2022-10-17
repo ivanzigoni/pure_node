@@ -1,0 +1,18 @@
+{
+  "name": "node_puro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "readfile.js",
+  "scripts": {
+    "build": "npx tsc",
+    "start": "node dist/rawhttp.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^18.11.0",
+    "typescript": "^4.8.4"
+  }
+}
